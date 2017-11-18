@@ -7,7 +7,7 @@ public class Idpw {
 		String passwd = "1234";
 		if(id=="testid") {
 			if(passwd=="1234") {
-				System.out.println("로그인 성공입니다!");
+				System.out.println("로 그 인 성공입니다!");
 			}
 		}
 	}
